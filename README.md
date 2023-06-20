@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daouadji506&label=Profile%20views&color=0e75b6&style=flat" alt="daouadji506" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 💬 Ask me about **React,Css,anything related to web, mobile or even desktop app development.**
 
 - 📫 How to reach me **daouadji505@gmail.com**
@@ -20,7 +18,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daouadji506&show_icons=true&locale=en&layout=compact" alt="daouadji506" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daouadji506&show_icons=true&locale=en&layout=compact" alt="daouadji506" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=daouadji506&show_icons=true&locale=en" alt="daouadji506" /></p>
+
 
