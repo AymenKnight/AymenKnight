@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daouadji506&label=Profile%20views&color=0e75b6&style=flat" alt="daouadji506" /> </p>
 
-- 💬 Ask me about **React,Css,anything related to web, mobile or even desktop app development.**
+- 💬 Ask me about ** Next, React, Css, anything related to web, mobile or even desktop app development.**
 
 - 📫 How to reach me **daouadji505@gmail.com**
 
@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aymen daouadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymen daouadji" height="30" width="40" /></a>
 <a href="https://fb.com/aymen daouadji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymen daouadji" height="30" width="40" /></a>
+  <a href="https://your-portfolio-url.com" target="blank">Check out my Portfolio</a> - Explore my projects and experiences!  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
