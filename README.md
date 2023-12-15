@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daouadji Aymen</h1>
 <h3 align="center">A passionate Software Developer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daouadji506&label=Profile%20views&color=0e75b6&style=flat" alt="daouadji506" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AymenKnight&label=Profile%20views&color=0e75b6&style=flat" alt="AymenKnight" /> </p>
 
 - 💬 Ask me about ** Next, React, Css, anything related to web, mobile or even desktop app development.**
 
@@ -19,7 +19,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daouadji506&show_icons=true&locale=en&layout=compact" alt="daouadji506" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AymenKnight&show_icons=true&locale=en&layout=compact" alt="AymenKnight" /></p>
 
 
 
